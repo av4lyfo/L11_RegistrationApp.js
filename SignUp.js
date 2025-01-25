@@ -57,8 +57,7 @@ const SignUp = ({navigation}) => {
 
    return (
     <ImageBackground
-        source={{uri: 'https://th.bing.com/th/id/OIP.D8UnTwZJ4ezZKt2qMkzaXAHaNK?rs=1&pid=ImgDetMain',}}
-        style={styles.background}>
+        source={{uri: 'https://th.bing.com/th/id/OIP.D8UnTwZJ4ezZKt2qMkzaXAHaNK?rs=1&pid=ImgDetMain',}} style={styles.background}>
 
         <View style={styles.container}>
             <StatusBar/>
